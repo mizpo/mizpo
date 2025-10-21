@@ -18,6 +18,7 @@
 ### I'm am currently a Genetic Counselor in the [Evrony Lab](https://www.evronylab.org/) at [NYU Langone Health](https://med.nyu.edu/centers-programs/human-genetics-genomics/). 
 - 🎓 Masters in Genetic Counseling from [Columbia University](https://www.vagelos.columbia.edu/education/academic-programs/program-genetic-counseling/ms-genetic-counseling)
 - 🎓 Neuroscience & Behaviour major from [Columbia University](https://www.vagelos.columbia.edu/education/academic-programs/program-genetic-counseling/ms-genetic-counseling)
+- Student Founder of [Genetic Counselors for Choice ](https://www.vagelos.columbia.edu/education/academic-programs/program-genetic-counseling/genetic-counselors-choice)
 - 💻 Experienced in genetic counseling, x and x
 - 🌱 Passionate about x, x and x
 - ⚡  I like to x and x
