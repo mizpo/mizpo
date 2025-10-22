@@ -10,7 +10,7 @@
 </p> 
 
 <p float="middle" align="middle">
-<img width=50% " src="https://github.com/mizpo/mizpo/blob/main/dnaemp.gif" alt="GIF here" /></p> 
+<img width=50% " src="https://github.com/mizpo/mizpo/blob/main/dnaemp.gif" alt="GIF here" /></p>
  
 
 <!---![Header image](https://raw.githubusercontent.com/jayrajroshan/jayrajroshan/master/Assets/myHeader.jpg)--->
